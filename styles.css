@@ -1,0 +1,38 @@
+
+/* Body settings*/
+body {
+ background-color: grey;
+ font-family: fantasy;
+ display: inline;
+
+}
+/* Table settings */
+h1, h2, h3 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  text-align: center;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  background-color: #71797E;
+  text-align: center;
+}
+a{
+  color:aqua;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto; 
+}
+/* Table */ 
